@@ -1,0 +1,209 @@
+﻿body {
+}
+
+
+div.page-header{
+
+    background-color:#CDD0CE;
+    text-align:center;
+    margin-top:0px;
+    padding-top:50px;
+}
+
+.page-header{
+    padding-bottom:9px;
+
+}
+
+h1.container{
+    background-color:#CDD0CE;
+    font-family: 'Pacifico', cursive;
+}
+
+h2.container{
+    font-family: 'Pacifico', cursive;
+}
+
+
+#first {
+    background-image: url('../Images/tuscany-villas-sant-anna.jpg');
+    background-size:cover;
+    height:600px;
+    }
+
+#one{
+    
+    border-color:black;
+    background-color: #495151;
+    opacity: 0.6;
+    filter:alpha(opacity=60);
+    
+  margin: 100px 150px 100px 80px;
+  float: none !important;
+
+}
+
+
+#second {
+    background-image: url('../Images/Versilia.jpg');
+    background-size: cover;
+    height: 600px;
+}
+
+#two{ 
+    border-color:white;
+    background-color: white;
+    opacity: 0.8;
+    filter:alpha(opacity=60);
+    
+ display: block;
+ margin: 100px 150px 100px 80px;
+ 
+ float: none !important;
+
+}
+
+
+
+
+
+
+
+
+#third{
+    height:300px;
+}
+
+#three{
+    
+
+}
+
+#fourth {
+    background-image: url('../Images/Villa-Rucellai-Toscani-2750-2-348x348.jpg');
+    background-size: cover;
+    height:300px;
+}
+
+#four{
+    border-color:black;
+    background-color: #495151;
+    opacity: 0.6;
+    filter:alpha(opacity=60);
+    margin: 100px 150px 100px 80px;
+    float: none !important;
+}
+
+#fifth {
+    background-image: url('../Images/Villa-Vanna-231-348x348.jpg');
+    background-size:cover;
+    height:300px;
+}
+
+
+#sixth {
+    background-image: url('../Images/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+    background-size:cover;
+    height:300px;
+}
+
+#seventh {
+    background-image: url('../Images/Tartufo_020_In_Evening_Sun.jpg');
+    background-size:cover;
+    height:300px;
+}
+
+#eigth{
+    height:300px;
+}
+
+#ninth {
+    background-image: url('../Images/3b-348x348.jpg');
+    background-size:cover;
+    height: 300px;
+}
+
+#tenth{
+    height:300px;
+}
+
+#twelth {
+    background-image: url('../Images/42-348x348.jpg');
+    background-size:cover;
+    height:300px;
+}
+
+#thirteenth {
+    
+    height:300px;
+}
+
+.navbar .navbar-nav{
+    display:inline-block;
+    float:none;
+    text-align:center;
+
+}
+.navbar .navbar-collapse{
+    text-align:center;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+/*.window{
+    background-color: #4FAC9F;
+    height:60px;
+    text-align:left;
+    margin-bottom:0px;
+
+   }*/
+
+div.container{
+    margin-left:0px;
+    padding-left:0px;
+    margin-right:0px;
+    width:auto;
+    
+
+   }
+
+
+
+.navbar .navbar-right{
+   float:right;
+    background-color:#7FBCDB;
+    position:center;
+
+}
+
+#trees{
+    float:left;
+    font-size:40px;
+    line-height:40px;
+    color:white;
+    background-color:#7FBCDB;
+    height:60px;
+    padding-top:10px;
+}
+
+.button{
+    background-color:#7FBCDB;
+    border:none;
+    color:white;
+    padding-top:15px 32px;
+    text-decoration:none;
+    
+    font-size:16px;
+    margin: auto;
+}
+
+.button1{
+    background-color:white;
+    color:#7FBCDB;
+    border:2px solid #7FBCDB;
+}
+.button2{
+    background-color:white;
+    color:#7FBCDB;
+    border:2px solid #7FBCDB;
+}
